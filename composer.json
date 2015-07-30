@@ -1,0 +1,33 @@
+{
+    "name": "imi/imi_conditional_content",
+    "description": "Display content based on conditions",
+    "keywords": [
+        "contao",
+        "metamodels",
+        "changelanguage"
+    ],
+    "type": "contao-module",
+    "homepage": "http://www.imi-digital.de",
+    "license": "GPL2",
+    "authors": [
+        {
+            "name": "iMi digital GmbH - Alexander Menk",
+            "email": "a.menk@imi.de",
+            "homepage": "http://www.imi-digital.de",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3",
+        "contao/core": ">=3.2.0"
+    },
+    "extra": {
+        "contao": {
+            "sources": {
+                "contao": "system/modules/imi_conditional_content"
+            }
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
