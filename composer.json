@@ -24,7 +24,7 @@
     "extra": {
         "contao": {
             "sources": {
-                "contao": "system/modules/imi_conditional_content"
+                "contao": "system/modules/z_imi_conditional_content"
             }
         }
     },
