@@ -15,7 +15,7 @@ ClassLoader::addNamespaces(array
 ClassLoader::addClasses(array
 (
 	// Classes
-	'iMi\ConditionalContent\ImiConditionalContentObserver' => 'system/modules/imi_conditional_content/classes/ImiConditionalContentObserver.php',
+	'iMi\ConditionalContent\ImiConditionalContentObserver' => 'system/modules/z_imi_conditional_content/classes/ImiConditionalContentObserver.php',
 ));
 
 
