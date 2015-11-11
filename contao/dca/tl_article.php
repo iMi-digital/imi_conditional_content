@@ -2,7 +2,7 @@
 
 
 $GLOBALS['TL_DCA']['tl_article']['fields']['conditional_display'] = array(
-        'label'                   => &$GLOBALS['TL_LANG']['default']['conditional_display'],
+        'label'                   => &$GLOBALS['TL_LANG']['MSC']['conditional_display'],
         'inputType'               => 'text',
         'eval'                    => array('class' => 'clr'),
         'sql'                     => "text NULL"
