@@ -27,10 +27,8 @@ In need of support or an implementation of a modul in an existing system, [free 
 Of course we provide development of closed-source moduls as well.
 
 
-Contao Modul imi_mm_changelanguage
+Contao Modul imi_conditional_content
 ==================================
-
-Dieses Modul macht das Modul Changelanguage mit den MetaModels kompatibel.
 
 Installation
 ------------
