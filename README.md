@@ -15,7 +15,12 @@ Use
 
 The module adds the field "condition" to content elements and modules. Use PHP code to specify in which cases the content
 should be displayed.
-You might want to set the cache time of affected pages low enough, so that your setting has an effect.
+You might want to set the cache time of affected pages low enough, so that your setting has an effect. - see also #3
+
+Security
+--------
+
+Be aware that every content editor with access to the "condition" field can inject any PHP code.
 
 About Us
 =================
